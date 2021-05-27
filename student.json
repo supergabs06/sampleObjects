@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "Gabriel",
+        "age" : 20,
+        "language" : ["c++", "java", "python", "javascript", "php"]
+    },
+    {
+        "name" : "Jumbo",
+        "age" : 25,
+        "language" : ["c++", "javascript", "php"]
+    },
+    {
+        "name" : "Crumpy",
+        "age" : 22,
+        "language" : ["cobol", "c#", "kotlin", "go"]
+    }
+]
